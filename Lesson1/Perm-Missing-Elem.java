@@ -6,10 +6,10 @@
  * class Solution { public int solution(int[] A); }
  * that, given a zero-indexed array A, returns the value of the missing element.
  * For example, given array A such that:
- *   A[0] = 2
- *   A[1] = 3
- *   A[2] = 1
- *   A[3] = 5
+ * A[0] = 2
+ * A[1] = 3
+ * A[2] = 1
+ * A[3] = 5
  * the function should return 4, as it is the missing element.
  * Assume that:
  * N is an integer within the range [0..100,000];
