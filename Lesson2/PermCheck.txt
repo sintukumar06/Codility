@@ -1,0 +1,39 @@
+1. Simple solution.
+class Solution {
+    public int solution(int[] A) {
+        // write your code in Java SE 8
+        int N = A.length;
+        int [] P = new int[N+1];
+        for (int i=0;i<N+1;i++) {
+           P[i] = -1;    
+        }
+        for (int i=0;i<N;i++) {
+            if (N>=1) { 
+                if ((A[i]<=N) && (A[i]>=1)){
+                   if ( P[A[i]] == 1){
+                    return 0;
+                   }else {
+                    P[A[i]] = 1; 
+                   }
+                }else {
+                    return 0;    
+                }
+            }else {
+                return 0;
+            }           
+        }
+        
+        for (int i=1;i<N+1;i++) {    
+            if (P[i] == -1){
+                return 0;    
+            }else if (P[0]==1){
+                return 0;
+            }else {
+                return 1;
+            }            
+        }
+        return 0;
+    }
+}
+
+Score: 100%

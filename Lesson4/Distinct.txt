@@ -1,0 +1,16 @@
+1. Simple solution. Time complexity is O(N*log(N)) or O(N)
+import java.util.Arrays;
+class Solution {
+    public int solution(int[] A) {
+        if (A.length <= 0) return 0;
+        Arrays.sort(A);
+        int pre = A[0], count = 1;
+        for (int i = 1; i < A.length; i++) {
+            if (A[i] != pre) {
+                pre = A[i];
+                count++;
+            }
+        }
+        return count;
+    }
+}

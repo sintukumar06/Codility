@@ -1,0 +1,44 @@
+1. Solution. time complexity is O(N)
+The key to solve this task is these two patterns:  
+(1) There must be some slices, with length of two or three, having the minimal average value among all the slices. 
+(2) And all the longer slices with minimal average are built up with these 2-element and/or 3-element small slices.
+class Solution {
+    public int solution(int[] A) {
+    
+        double minAvg = 100000;
+        int index=0;
+    
+        if(A.length<=2) {
+    
+            return 0;
+        }
+    
+        for(int i=0;i<A.length-2;i++) {
+    
+            if((A[i]+A[i+1])/2.0<minAvg) {
+                minAvg=(A[i]+A[i+1])/2.0;
+                index=i;
+            }
+    
+            if((A[i]+A[i+1]+A[i+2])/3.0<minAvg)  {
+    
+                minAvg=(A[i]+A[i+1]+A[i+2])/3.0;
+                index=i;
+            }
+        }
+    
+        int aMax = A.length-2;
+    
+        if((A[aMax]+A[aMax+1])/2.0<minAvg) {
+    
+            minAvg=(A[aMax]+A[aMax+1])/2.0;
+            index=aMax;
+        }
+    
+        return index;
+    }
+}
+
+Score: 100%
+
+
