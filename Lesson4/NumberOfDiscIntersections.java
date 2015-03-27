@@ -56,7 +56,9 @@ class Solution {
 /*Score: 81%*/
 
 /*2. Improvedolution. Time complexity is O(N*log(N)) or O(N).
-The largest value of right-A[right] is n-1. We just need to find right-A[right]>0 and how many i+A[i] is smaller than it.*/
+The largest value of right-A[right] is n-1. We just need to find right-A[right]>0 and how many i+A[i] is smaller than it. 
+
+*/
 class Solution {
     public int solution(int[] A) {
         int n = A.length;
