@@ -27,17 +27,17 @@ Coding Practice. Just for fun.
 - [x] [NumberOfDiscIntersections](https://github.com/ZRonchy/Codility/blob/master/Lesson4/NumberOfDiscIntersections.java)
 
 ##Lesson 5 [Stacks and Queues](https://codility.com/programmers/lessons/5)
-- [x] [Brackets]
-- [x] [Nesting]
-- [x] [StoneWall]
-- [x] [Fish]
+- [x] [Brackets](https://github.com/ZRonchy/Codility/blob/master/Lesson5/Brackets.java)
+- [x] [Nesting](https://github.com/ZRonchy/Codility/blob/master/Lesson5/Nesting.java)
+- [x] [Fish](https://github.com/ZRonchy/Codility/blob/master/Lesson5/Fish.java)
+- [x] [StoneWall](https://github.com/ZRonchy/Codility/blob/master/Lesson5/StoneWall.java)
 
 ##Lesson 6 [Leader](https://codility.com/programmers/lessons/6)
 - [x] [Dominator]
 - [x] [EquiLeader]
 
 ##Lesson 7 [Maximum slice problem](https://codility.com/programmers/lessons/7)
-- [x] [MaxProfit](https://github.com/acprimer/Codility/blob/master/src/Lesson7/MaxProfit.java)
+- [x] [MaxProfit]
 - [x] [MaxSliceSum]
 - [x] [MaxDoubleSliceSum]
 
@@ -75,7 +75,7 @@ Coding Practice. Just for fun.
 
 ##Lesson 15 [Dynamic programming](https://codility.com/programmers/lessons/16)
 - [x] [NumberSolitaire]
-- [ ] [MinAbsSum]
+- [x] [MinAbsSum]
 
 ##Lesson 99 [Future training](https://codility.com/programmers/lessons/14)
 - [x] [TreeHeight]
