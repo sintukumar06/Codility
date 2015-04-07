@@ -4,9 +4,9 @@ Codility
 Coding Practice. Just for fun.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
-- [x] [TapeEquilibrium](https://github.com/ZRonchy/Codility/blob/master/Lesson1/TapeEquilibrium.java)
-- [x] [FrogJmp](https://github.com/ZRonchy/Codility/blob/master/Lesson1/FrogJmp.java)
-- [x] [PermMissingElem](https://github.com/ZRonchy/Codility/blob/master/Lesson1/Perm-Missing-Elem.java)
+-[TapeEquilibrium](https://github.com/ZRonchy/Codility/blob/master/Lesson1/TapeEquilibrium.java)
+-[FrogJmp](https://github.com/ZRonchy/Codility/blob/master/Lesson1/FrogJmp.java)
+-[PermMissingElem](https://github.com/ZRonchy/Codility/blob/master/Lesson1/Perm-Missing-Elem.java)
 
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
 - [x] [PermCheck](https://github.com/ZRonchy/Codility/blob/master/Lesson2/PermCheck.java)
