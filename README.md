@@ -9,10 +9,10 @@ Coding Practice. Just for fun.
 - [PermMissingElem](https://github.com/ZRonchy/Codility/blob/master/Lesson1/Perm-Missing-Elem.java)
 
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
- [PermCheck](https://github.com/ZRonchy/Codility/blob/master/Lesson2/PermCheck.java)
- [FrogRiverOne](https://github.com/ZRonchy/Codility/blob/master/Lesson2/FrogRiverOne.java)
- [MissingInteger](https://github.com/ZRonchy/Codility/blob/master/Lesson2/MissingInteger.java)
- [MaxCounters](https://github.com/ZRonchy/Codility/blob/master/Lesson2/MaxCounters.java)
+- [PermCheck](https://github.com/ZRonchy/Codility/blob/master/Lesson2/PermCheck.java)
+- [FrogRiverOne](https://github.com/ZRonchy/Codility/blob/master/Lesson2/FrogRiverOne.java)
+- [MissingInteger](https://github.com/ZRonchy/Codility/blob/master/Lesson2/MissingInteger.java)
+- [MaxCounters](https://github.com/ZRonchy/Codility/blob/master/Lesson2/MaxCounters.java)
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
 - [PassingCars](https://github.com/ZRonchy/Codility/blob/master/Lesson3/PassingCars.java)
