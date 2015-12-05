@@ -20,7 +20,7 @@ Coding Practice. Just for fun.
 - [MinAvgTwoSlice](https://github.com/ZRonchy/Codility/blob/master/Lesson3/MinAvgTwoSlice.java)
 - [GenomicRangeQuery](https://github.com/ZRonchy/Codility/blob/master/Lesson3/GenomicRangeQuery.java)
 
-##Lesson 4 [Prefix Sums](https://codility.com/programmers/lessons/4)
+##Lesson 4 [Sorting](https://codility.com/programmers/lessons/4)
 - [MaxProductOfThree](https://github.com/ZRonchy/Codility/blob/master/Lesson4/MaxProductOfThree.java)
 - [Distinct](https://github.com/ZRonchy/Codility/blob/master/Lesson4/Distinct.java)
 - [Triangle](https://github.com/ZRonchy/Codility/blob/master/Lesson4/Triangle.java)
@@ -33,13 +33,13 @@ Coding Practice. Just for fun.
 - [StoneWall](https://github.com/ZRonchy/Codility/blob/master/Lesson5/StoneWall.java)
 
 ##Lesson 6 [Leader](https://codility.com/programmers/lessons/6)
-- [EquiLeader]
-- [Dominator]
+- [EquiLeader](https://github.com/ZRonchy/Codility/blob/master/Lesson6/EquiLeader.java)
+- [Dominator](https://github.com/ZRonchy/Codility/blob/master/Lesson6/Dominator.java)
 
 ##Lesson 7 [Maximum slice problem](https://codility.com/programmers/lessons/7)
-- [MaxProfit]
-- [MaxSliceSum]
-- [MaxDoubleSliceSum]
+- [MaxProfit](https://github.com/ZRonchy/Codility/blob/master/Lesson7/MaxProfit.java)
+- [MaxSliceSum](https://github.com/ZRonchy/Codility/blob/master/Lesson7/MaxSliceSum.java)
+- [MaxDoubleSliceSum](https://github.com/ZRonchy/Codility/blob/master/Lesson7/MaxDoubleSliceSum.java)
 
 ##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
 - [MinPerimeterRectangle]
