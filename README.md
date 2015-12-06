@@ -42,10 +42,10 @@ Coding Practice. Just for fun.
 - [MaxDoubleSliceSum](https://github.com/ZRonchy/Codility/blob/master/Lesson7/MaxDoubleSliceSum.java)
 
 ##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
-- [MinPerimeterRectangle]
-- [CountFactors]
-- [Peaks]
-- [Flags]
+- [MinPerimeterRectangle](https://github.com/ZRonchy/Codility/blob/master/Lesson8/MinPerimeterRectangle.java)
+- [CountFactors](https://github.com/ZRonchy/Codility/blob/master/Lesson8/CountFactors.java)
+- [Peaks](https://github.com/ZRonchy/Codility/blob/master/Lesson8/Peaks.java)
+- [Flags](https://github.com/ZRonchy/Codility/blob/master/Lesson8/Flags.java)
 
 ##Lesson 9 [Sieve of Eratosthenes](https://codility.com/programmers/lessons/9)
 - [CountSemiprimes]
