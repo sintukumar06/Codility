@@ -48,8 +48,8 @@ Coding Practice. Just for fun.
 - [Flags](https://github.com/ZRonchy/Codility/blob/master/Lesson8/Flags.java)
 
 ##Lesson 9 [Sieve of Eratosthenes](https://codility.com/programmers/lessons/9)
-- [CountSemiprimes]
-- [CountNonDivisible]
+- [CountSemiprimes](https://github.com/ZRonchy/Codility/blob/master/Lesson9/CountSemiprimes.java)
+- [CountNonDivisible](https://github.com/ZRonchy/Codility/blob/master/Lesson9/CountNonDivisible.java)
 
 ##Lesson 10 [Euclidean algorithm](https://codility.com/programmers/lessons/10)
 - [ChocolatesByNumbers]
