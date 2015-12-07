@@ -52,8 +52,8 @@ Coding Practice. Just for fun.
 - [CountNonDivisible](https://github.com/ZRonchy/Codility/blob/master/Lesson9/CountNonDivisible.java)
 
 ##Lesson 10 [Euclidean algorithm](https://codility.com/programmers/lessons/10)
-- [ChocolatesByNumbers]
-- [CommonPrimeDivisors]
+- [ChocolatesByNumbers](https://github.com/ZRonchy/Codility/blob/master/Lesson10/ChocolatesByNumbers.java)
+- [CommonPrimeDivisors](https://github.com/ZRonchy/Codility/blob/master/Lesson10/CommonPrimeDivisors.java)
 
 ##Lesson 11 [Fibonacci numbers](https://codility.com/programmers/lessons/11)
 - [Ladder]
