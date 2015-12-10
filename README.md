@@ -57,7 +57,7 @@ Coding Practice. Just for fun.
 
 ##Lesson 11 [Fibonacci numbers](https://codility.com/programmers/lessons/11)
 - [Ladder](https://github.com/ZRonchy/Codility/blob/master/Lesson11/Ladder.java)
-- [FibFrog(https://github.com/ZRonchy/Codility/blob/master/Lesson11/FibFrog.java)
+- [FibFrog](https://github.com/ZRonchy/Codility/blob/master/Lesson11/FibFrog.java)
 
 ##Lesson 12 [Binary search algorithm](https://codility.com/programmers/lessons/12)
 - [MinMaxDivision]
