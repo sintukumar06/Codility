@@ -60,8 +60,8 @@ Coding Practice. Just for fun.
 - [FibFrog](https://github.com/ZRonchy/Codility/blob/master/Lesson11/FibFrog.java)
 
 ##Lesson 12 [Binary search algorithm](https://codility.com/programmers/lessons/12)
-- [MinMaxDivision]
-- [NailingPlanks]
+- [MinMaxDivision](https://github.com/ZRonchy/Codility/blob/master/Lesson12/MinMaxDivision.java)
+- [NailingPlanks](https://github.com/ZRonchy/Codility/blob/master/Lesson12/NailingPlanks.java)
 
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
 - [AbsDistinct]
