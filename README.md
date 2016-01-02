@@ -64,10 +64,10 @@ Coding Practice. Just for fun.
 - [NailingPlanks](https://github.com/ZRonchy/Codility/blob/master/Lesson12/NailingPlanks.java)
 
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
-- [AbsDistinct]
-- [CountDistinctSlices]
-- [MinAbsSumOfTwo]
-- [CountTriangles]
+- [AbsDistinct](https://github.com/ZRonchy/Codility/blob/master/Lesson13/AbsDistinct.java)
+- [CountDistinctSlices](https://github.com/ZRonchy/Codility/blob/master/Lesson13/CountDistinctSlices.java)
+- [CountTriangles](https://github.com/ZRonchy/Codility/blob/master/Lesson13/CountTriangles.java)
+- [MinAbsSumOfTwo](https://github.com/ZRonchy/Codility/blob/master/Lesson13/MinAbsSumOfTwo.java)
 
 ##Lesson 14 [Greedy algorithms](https://codility.com/programmers/lessons/15)
 - [MaxNonoverlappingSegments]
