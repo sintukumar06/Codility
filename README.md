@@ -70,8 +70,8 @@ Coding Practice. Just for fun.
 - [MinAbsSumOfTwo](https://github.com/ZRonchy/Codility/blob/master/Lesson13/MinAbsSumOfTwo.java)
 
 ##Lesson 14 [Greedy algorithms](https://codility.com/programmers/lessons/15)
-- [MaxNonoverlappingSegments]
-- [TieRopes]
+- [MaxNonoverlappingSegments](https://github.com/ZRonchy/Codility/blob/master/Lesson14/MaxNonoverlappingSegments.java)
+- [TieRopes](https://github.com/ZRonchy/Codility/blob/master/Lesson14/TieRopes.java)
 
 ##Lesson 15 [Dynamic programming](https://codility.com/programmers/lessons/16)
 - [NumberSolitaire]
